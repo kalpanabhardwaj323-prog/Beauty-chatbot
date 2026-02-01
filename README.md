@@ -60,7 +60,10 @@ Chatbot: Our skin care product line includes cleansers, moisturizers, serums, an
 Type exit to stop the chatbot.
 
 ---
+## 📸 Demo
+![Demo](demo.png)
 
+---
 ## 📌 Future Improvements
 
 - Add NLP using NLTK or spaCy  
