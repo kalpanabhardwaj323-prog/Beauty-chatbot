@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey"],
+      "responses": ["Hello! How can I assist you with your skin care needs today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you"],
+      "responses": ["Goodbye! If you have more questions, feel free to ask."]
+    },
+    {
+      "tag": "thankyou",
+      "patterns": ["thanks", "thank you", "appreciate it"],
+      "responses": ["You're welcome! If you need further assistance, don't hesitate to ask."]
+    },
+    {
+      "tag": "product_info",
+      "patterns": ["tell me about skin care products", "what products do you offer", "product information"],
+      "responses": ["Our skin care product line includes cleansers, moisturizers, serums, and more. Each product is designed to address specific skin concerns."]
+    },
+    {
+      "tag": "recommend_product",
+      "patterns": ["recommend a product", "what should I use for dry skin", "product recommendations"],
+      "responses": ["Certainly! To better assist you, could you please share your skin type and any specific concerns you have?"]
+    },
+    {
+      "tag": "ingredients",
+      "patterns": ["what ingredients are in your products", "tell me about product ingredients", "ingredient list"],
+      "responses": ["Our products contain a combination of natural and dermatologist-approved ingredients. Let me know if you have any allergies."]
+    },
+    {
+      "tag": "where_to_buy",
+      "patterns": ["where can I buy your products", "purchase options", "buying locations"],
+      "responses": ["Our products are available both online on our official website and at select retail locations."]
+    },
+    {
+      "tag": "contact",
+      "patterns": ["how can I contact customer support", "need assistance", "customer service"],
+      "responses": ["You can reach our support via email at support@example.com or call our toll-free number."]
+    },
+    {
+      "tag": "special_offers",
+      "patterns": ["any special offers", "current promotions", "discounts available"],
+      "responses": ["We currently have exciting promotions! Check our website for the latest discounts."]
+    }
+  ]
+}
